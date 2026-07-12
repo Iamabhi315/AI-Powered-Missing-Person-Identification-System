@@ -48,7 +48,7 @@ This project aims to develop an **AI-powered Missing Person Identification Syste
 
 This project was developed during the **Foundations of AI & ML Internship Program** conducted at **Centre for Development of Advanced Computing (C-DAC), Patna**.
 
-The internship focused on building practical knowledge of **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision** through hands-on training and real-world project development.
+The internship focused on building practical knowledge of **Artificial Intelligence, Machine Learning, Deep Learning** through hands-on training and real-world project development.
 
 ### Internship Details
 

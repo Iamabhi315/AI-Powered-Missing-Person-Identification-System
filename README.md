@@ -245,7 +245,7 @@ http://localhost:8501
 ### 📊 Model Training Results
 
 ![Training](images/result1.png)
-![Training](images/result2.png)
+![Training](images/result2.jpg)
 
 ---
 

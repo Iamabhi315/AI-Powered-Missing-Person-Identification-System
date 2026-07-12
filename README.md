@@ -238,14 +238,14 @@ http://localhost:8501
 ### 📹 CCTV Detection
 
 ![CCTV](images/cctv.png)
-![CCTV](images/cctv.png)
+![CCTV](images/multi_cctv.png)
 
 ---
 
 ### 📊 Model Training Results
 
-![Training](images/training_result.png)
-![Training](images/training_result.png)
+![Training](images/result1.png)
+![Training](images/result2.png)
 
 ---
 

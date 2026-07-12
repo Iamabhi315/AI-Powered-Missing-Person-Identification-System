@@ -1,4 +1,4 @@
-# 🚨 AI Powered Missing Person Identification System
+# AI Powered Missing Person Identification System
 
 > **An AI-powered real-time missing person identification system using YOLOv8, InsightFace, OpenCV, Streamlit, and SQLite.**
 
@@ -282,7 +282,7 @@ Their mentorship played a significant role in the successful completion of this 
 ### 👨‍💻 Development Team (C-DAC Patna Interns)
 
 - **Abhishek kumar** — Team Leader ( Model Integration, Face Recognition Pipeline, Streamlit Integration & System Implementation )
-- **Anand Kumar** — AI Model Developmen
+- **Anand Kumar** — AI Model Development( Model Training )
 - **Rupam Kumari** — Backend Developer
 - **Chandani Kumari** — Email Integration
 - **Sneha Kumari** — Frontend Developer

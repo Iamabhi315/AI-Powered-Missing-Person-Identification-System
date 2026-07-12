@@ -19,6 +19,14 @@ The system detects faces from **images, videos, webcams, and CCTV camera feeds**
 
 ---
 
+## 📌 Problem Statement
+
+Every year, thousands of people go missing, making it difficult for law enforcement agencies and families to locate them quickly. Traditional identification methods rely heavily on manual observation, which is time-consuming, error-prone, and inefficient when dealing with large volumes of CCTV footage or video surveillance.
+
+This project aims to develop an **AI-powered Missing Person Identification System** that automatically detects and identifies missing persons from images, recorded videos, live webcam streams, and CCTV feeds. By leveraging **Deep Learning**, **Computer Vision**, and **Face Recognition**, the system provides a faster, more accurate, and automated approach to missing person identification.
+
+---
+
 ## ✨ Key Features
 
 - 👤 Register Missing Person Details
@@ -33,6 +41,24 @@ The system detects faces from **images, videos, webcams, and CCTV camera feeds**
 - 📧 Email Notification on Successful Match
 - 🗄️ SQLite Database Integration
 - 💻 Interactive Streamlit Dashboard
+
+---
+
+## 🎓 Internship Training Details
+
+This project was developed during the **Foundations of AI & ML Internship Program** conducted at **Centre for Development of Advanced Computing (C-DAC), Patna**.
+
+The internship focused on building practical knowledge of **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision** through hands-on training and real-world project development.
+
+### Internship Details
+
+| Particular | Details |
+|------------|---------|
+| Organization | Centre for Development of Advanced Computing (C-DAC), Patna |
+| Training Program | Foundations of AI & ML |
+| Duration | 08 June 2026 – 10 July 2026 |
+| Grade | A+ |
+| Project | AI Powered Missing Person Identification System |
 
 ---
 

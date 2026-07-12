@@ -77,6 +77,23 @@ The internship focused on building practical knowledge of **Artificial Intellige
 
 ---
 
+## 🧠 Model Training
+
+The face detection model was trained using **YOLOv8** with **Transfer Learning** on the **WIDER FACE Dataset**. The dataset contains face images with different poses, scales, lighting conditions, and occlusions, making it suitable for robust face detection.
+
+### Training Details
+
+| Parameter | Value |
+|-----------|-------|
+| Model | YOLOv8 |
+| Training Method | Transfer Learning |
+| Dataset | WIDER FACE |
+| Image Size | 640 × 640 |
+| Annotation | YOLO Format |
+| Output | `best.pt` |
+
+After face detection, **InsightFace (buffalo_l)** generates a **512-dimensional face embedding**, which is matched against registered embeddings using **Cosine Similarity** for missing person identification.
+
 ## 🏗️ System Workflow
 
 ```
